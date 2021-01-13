@@ -10,8 +10,10 @@
   "dependencies": {
     "@nervosnetwork/ckb-sdk-core": "^0.31.0",
     "@nervosnetwork/ckb-sdk-utils": "^0.31.0",
+    "axios": "1.15.0",
     "bech32": "^1.1.4",
     "bn.js": "^5.1.2",
+    "socket.io-client": "4.8.3",
     "vue": "^2.6.11"
   },
   "devDependencies": {
